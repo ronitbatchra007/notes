@@ -20,11 +20,11 @@
         "age": 36
     },
     {
-        "name": "Serena Williams", // string
-        "sport": "Tennis", // string
+        "name": "Serena Williams",
+        "sport": "Tennis",
         "team": { 
-            "name": "N/A", // string
-            "city": "N/A" // string
+            "name": "N/A",
+            "city": "N/A"
         },
         "position": "Player",
         "age": 41
