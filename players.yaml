@@ -14,10 +14,10 @@
   position: Forward
   age: 36
 - name: Serena Williams
-  sport: Tennis
+  sport: Tennis # string
   team:
     name: N/A
-    city: N/A
+    city: N/A # string
   position: Player
   age: 41
 - name: Tom Brady
